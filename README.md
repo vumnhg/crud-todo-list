@@ -80,6 +80,10 @@ npm run dev
 
 - Toggle Theme: Click 🌞/🌙
 
+### 🌍 Live Demo  
+
+👉 [Click here to try the app]([https://crud-todo-list-two.vercel.app/]
+
 ### 📜 License
 
 - This project is licensed under the MIT License.
