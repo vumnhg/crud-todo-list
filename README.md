@@ -82,7 +82,7 @@ npm run dev
 
 ### 🌍 Live Demo  
 
-👉 [Click here to try the app]([https://crud-todo-list-two.vercel.app/]
+👉 [Click here to try the app](https://crud-todo-list-two.vercel.app/)
 
 ### 📜 License
 
